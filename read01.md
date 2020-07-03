@@ -1,6 +1,6 @@
 [Back Home](https://thatvetdevrob.github.io/reading-notes/)
 
-#Read: 01 - SMACSS and Responsive Web Design
+# Read: 01 - SMACSS and Responsive Web Design
 
 ![GitHub Logo](https://smhttp-ssl-31623-sherocom.nexcesscdn.net/wp-content/uploads/2016/01/github-banner.png)
 
