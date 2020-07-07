@@ -33,27 +33,27 @@ Because some looping functions are already built in, and some JS is provided for
 
 #### Code Fellows Believes in paired programming and gives six main points:
 
-1. Greater efficiency
+- Greater efficiency
 
 Greater efficiency means that when two programmers work together they can find better solutions faster, and makes the process more enjoyable.
 
-2. Engaged collaboration
+- Engaged collaboration
 
 It prevents one programmer from goofing off.
 
-3. Learning from fellow students
+- Learning from fellow students
 
 It allows students to be exposed to different ways of problem solving that they coulnt solve on their own. 
 
-4. Social skills
+- Social skills
 
 This shows people can work together.
 
-5. Job interview readiness
+- Job interview readiness
 
 It helps students be ready for whiteboard interviews. 
 
-6. Work environment readiness
+- Work environment readiness
 
 Paired programming will help us hit the floor running in a work environment training mindset.
  
