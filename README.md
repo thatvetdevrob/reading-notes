@@ -8,5 +8,7 @@
 
 [1: SMACSS and Responsive Web Design](https://thatvetdevrob.github.io/reading-notes/read01)
 
+[Read: 02 - jQuery, Events, and The DOM](https://thatvetdevrob.github.io/reading-notes/read02)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
