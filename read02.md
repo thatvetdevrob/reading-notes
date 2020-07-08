@@ -29,7 +29,7 @@ We can chain a JQuery with a dot selector.
 
 Because some looping functions are already built in, and some JS is provided for us more accessibly with JQuery, it’s important that as students, we are already familiar with JS, as much of the mystery of working with this new JS syntax will be resolved because our previous exercises. 
 
-# Paierd PRogramming:
+# Paired Programming:
 
 #### Code Fellows Believes in paired programming and gives six main points:
 
@@ -43,7 +43,7 @@ It prevents one programmer from goofing off.
 
 - Learning from fellow students
 
-It allows students to be exposed to different ways of problem solving that they coulnt solve on their own. 
+It allows students to be exposed to different ways of problem solving that they couldn’t solve on their own. 
 
 - Social skills
 
@@ -62,5 +62,4 @@ Paired programming will help us hit the floor running in a work environment trai
 [Back Home](https://thatvetdevrob.github.io/reading-notes/)
 
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
-
 
