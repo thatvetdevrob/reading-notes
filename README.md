@@ -12,5 +12,7 @@
 
 [Read: 03 - Flexbox and Templating](https://thatvetdevrob.github.io/reading-notes/read03)
 
+[Read: 04 - Responsive Web Design and Regular Expressions](https://thatvetdevrob.github.io/reading-notes/read04)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
