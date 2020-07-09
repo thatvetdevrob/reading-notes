@@ -4,7 +4,7 @@
 
 ![GitHub Logo](https://smhttp-ssl-31623-sherocom.nexcesscdn.net/wp-content/uploads/2016/01/github-banner.png)
 
-## Grid Garden
+## Grid Garden site
 
 [Grid Garden](https://cssgridgarden.com/) is a 28 level tutorial that shows us how to create a good layout by using a carrot garden as a methaphore to visualize the code going on in our CSS layout.
 
