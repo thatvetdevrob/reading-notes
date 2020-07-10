@@ -14,5 +14,7 @@
 
 [Read: 04 - Responsive Web Design and Regular Expressions](https://thatvetdevrob.github.io/reading-notes/read04)
 
+[Read: 05 - Responsive Web Design and Regular Expressions](https://thatvetdevrob.github.io/reading-notes/read05)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
