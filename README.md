@@ -16,5 +16,8 @@
 
 [Read: 05 - Responsive Web Design and Regular Expressions](https://thatvetdevrob.github.io/reading-notes/read05)
 
+[Read: 06 - Node, Express, and APIs](https://thatvetdevrob.github.io/reading-notes/read06)
+
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
