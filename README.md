@@ -18,6 +18,7 @@
 
 [Read: 06 - Node, Express, and APIs](https://thatvetdevrob.github.io/reading-notes/read06)
 
+[Read: 07 - APIs continued](https://thatvetdevrob.github.io/reading-notes/read07)
 
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
