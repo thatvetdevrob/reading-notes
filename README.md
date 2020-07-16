@@ -22,5 +22,7 @@
 
 [Read: 08 - Readings: SQL](https://thatvetdevrob.github.io/reading-notes/read08)
 
+[Read: 09 - Functional Programming](https://thatvetdevrob.github.io/reading-notes/read09)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 

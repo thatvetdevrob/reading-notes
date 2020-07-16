@@ -18,7 +18,7 @@ Also, the tables must contain certain unique vales, and the data is divided on t
 
 ![Node JS](https://cdn.sqlservertutorial.net/wp-content/uploads/sql-server-select-customers-table.png)
 
-# Brookr: how i explained rest to my brother
+# SQL cheat sheet and the W3 examples.
 
 The [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/) is a great resource to do training on the W#3Schools tutorials. 
 
