@@ -24,5 +24,7 @@
 
 [Read: 09 - Functional Programming](https://thatvetdevrob.github.io/reading-notes/read09)
 
+[Read: 10 - JS Call Stack](https://thatvetdevrob.github.io/reading-notes/read10)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
