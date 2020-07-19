@@ -1,6 +1,6 @@
 # reading-notes
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development here
 
 ![GitHub Logo](https://smhttp-ssl-31623-sherocom.nexcesscdn.net/wp-content/uploads/2016/01/github-banner.png)
 
