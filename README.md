@@ -26,5 +26,7 @@
 
 [Read: 10 - JS Call Stack](https://thatvetdevrob.github.io/reading-notes/read10)
 
+[Read: 11 - EJS](https://thatvetdevrob.github.io/reading-notes/read11)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
