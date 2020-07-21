@@ -14,6 +14,6 @@ So by creating partials, and then calling upon them with a relative path we can 
 
 ![EJS partial](https://miro.medium.com/max/875/0*oUmdAzjcwkQZb_AR.png)
 
-[Back Home](https://thatvetdevrob.github.io/reading-notes/)
+[Back Home](https://thatvetdevrob.github.io/reading-notes/) 
 
 
