@@ -28,5 +28,7 @@
 
 [Read: 11 - EJS](https://thatvetdevrob.github.io/reading-notes/read11)
 
+[Read: 12 - EJS Partials ](https://thatvetdevrob.github.io/reading-notes/read12)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
