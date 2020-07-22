@@ -30,7 +30,7 @@
 
 [Read: 12 - EJS Partials ](https://thatvetdevrob.github.io/reading-notes/read12)
 
-[Read: 12 - Delete and Update ](https://thatvetdevrob.github.io/reading-notes/read13)
+[Read: 13 - Delete and Update ](https://thatvetdevrob.github.io/reading-notes/read13)
 
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
