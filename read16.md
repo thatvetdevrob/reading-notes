@@ -4,7 +4,7 @@
 
 ### by MDN web docs
 
-![MDN web docs](https://media.prod.mdn.mozit.cloud/attachments/2012/11/20/4291/c1a4a06f1fd9ed42ec5b06e814dd3111/client-server.png)
+![MDN web docs](https://www.thoughtco.com/thmb/YNd9cWUgUgTOTGze97bXo5bDVBg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515176244-5c34004dc9e77c0001b53c7a.jpg)
 
 Diversity is important, to prevent this reading assingment to be of just my opinion, im jsy going to summarize my thoughts about being a trans-non binary minority living in todays world but quoting [Mae Jamison](https://www.thoughtco.com/mae-jemison-quotes-3530131), who as the first black woman austronaut would have great insight about being a minority in her field:
 
@@ -16,7 +16,7 @@ Diversity is important, to prevent this reading assingment to be of just my opin
 
 I wont let the opinions of others define how i see myself.
 
-![Network traffic](https://media.prod.mdn.mozit.cloud/attachments/2017/02/21/14691/f48a61b59378dc6d2369ba2241036a36/network-monitor.png)
+![Mae Jamison](https://pbs.twimg.com/profile_images/919145182/Jemison_400x400.jpg)
 
 [Back Home](https://thatvetdevrob.github.io/reading-notes/)
 
