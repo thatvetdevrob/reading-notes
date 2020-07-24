@@ -32,5 +32,9 @@
 
 [Read: 13 - Delete and Update ](https://thatvetdevrob.github.io/reading-notes/read13)
 
+[Read: 14 - DB Normalization ](https://thatvetdevrob.github.io/reading-notes/read14)
+
+[Read: 15 - API Ideas ](https://thatvetdevrob.github.io/reading-notes/read15)
+
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
