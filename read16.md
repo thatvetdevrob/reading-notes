@@ -2,7 +2,6 @@
 
 # Read: 16 - Diversity and Inclusion
 
-### by MDN web docs
 
 ![MDN web docs](https://www.thoughtco.com/thmb/YNd9cWUgUgTOTGze97bXo5bDVBg=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515176244-5c34004dc9e77c0001b53c7a.jpg)
 
