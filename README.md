@@ -36,7 +36,7 @@
 
 [Read: 15 - API Ideas ](https://thatvetdevrob.github.io/reading-notes/read15)
 
-[Read: 16 - API Ideas ](https://thatvetdevrob.github.io/reading-notes/read16)
+[Read: 16 - Diversity ](https://thatvetdevrob.github.io/reading-notes/read16)
 
 ![Git and VS ](https://andrewlock.net/content/images/2017/03/banner.PNG)
 
